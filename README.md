@@ -1,6 +1,6 @@
 ### Hi there , I'm Darryl. 
 
-Thank you for visiting my profile👋
+
 
 
 ---
@@ -51,6 +51,7 @@ From learning python to automate simple tasks to experimenting on generative AI 
 - Like to build stuff ,be it in web development or in machine learning.
 - While I'm not at the computer , I love singing and playing the guitar.
 
+Thank you for visiting my profile👋
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -80,4 +81,5 @@ From learning python to automate simple tasks to experimenting on generative AI 
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jquery" alt="jquery" width="60" height="60"/>&nbsp;
 </div>
-
+---
+###
