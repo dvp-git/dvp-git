@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/darryl-vas-prabhu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://darrylvasprabhu.me">
+  <a href="https://darrylvasprabhu.works">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfoli Badge"/>
   </a>
   <a href="https://wa.me/+17169364735">
