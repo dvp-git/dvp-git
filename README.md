@@ -46,7 +46,7 @@ From learning python to automate simple tasks to experimenting on generative AI 
 
  ### Software Engineer   |   AI Enthusiast   |   Experimenter  |   Web Developer
  
-- Recently graduate in Master's of Computer Science Engineering from the University at Buffalo ( SUNY ).
+- Graduate in Master's of Computer Science Engineering from the University at Buffalo ( SUNY ).
 - Curiosity led me to be an explorer of Generative AI.
 - Like to build stuff ,be it in web development or in machine learning.
 - While I'm not at the computer , I love singing and playing the guitar.
